@@ -4,6 +4,6 @@ LIL: abstract interfaces and supporting concrete data-structures in Common Lisp
 
 |---------+--------------------------------------------------------|
 | source  | git:https://github.com/fare/lisp-interface-library.git |
-| commit  | fb05ffd                                                |
+| commit  | c29a464                                                |
 | systems | lisp-interface-library                                 |
 |---------+--------------------------------------------------------|
